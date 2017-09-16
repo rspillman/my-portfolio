@@ -5,5 +5,9 @@ This is my professional portfolio. It uses Aws and ReactJS.
 Brew
 Git & GitHub
 ssh
+HTML
+CSS
+Font Awsom
+Google Fonts
 
 
