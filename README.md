@@ -1,7 +1,8 @@
 # Russ Spillman's portfolio
-This is my professional portfolio. It uses Aws and ReactJS.
+This is my professional portfolio. It uses AWS and ReactJS.
 
 #Technologies Used
+Atom
 Brew
 Git & GitHub
 ssh
@@ -9,5 +10,3 @@ HTML
 CSS
 Font Awsom
 Google Fonts
-
-
