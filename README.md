@@ -8,5 +8,5 @@ Git & GitHub
 ssh
 HTML
 CSS
-Font Awsom
+Font AWSOM
 Google Fonts
